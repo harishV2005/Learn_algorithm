@@ -1,0 +1,6 @@
+{
+  "name": "TraceLab",
+  "description": "Deterministic step-snapshot algorithm execution visualizer for sorting and searching in Java, C++, and Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
